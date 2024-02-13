@@ -1,5 +1,5 @@
 {
-  "name": "@shopping-package-amirali/common",
+  "name": "package-by-amirali",
   "version": "1.0.4",
   "description": "",
   "main": "./build/index.js",
